@@ -1,0 +1,22 @@
+{
+  "name": "realestate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanmjong/microsoft_demos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanmjong/microsoft_demos/issues"
+  },
+  "homepage": "https://github.com/jonathanmjong/microsoft_demos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
